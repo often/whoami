@@ -1,9 +1,9 @@
 # whoami
-quick JSON API that returns your IP address and headers.
+quick API that returns your IP address and headers.
 
 [![](https://deno.com/deno-deploy-button.svg)](https://dash.deno.com/new?url=https://github.com/often/whoami/blob/main/whoami.js)
 
-# Get IP address and headers
+# get IP address and headers
 
 ## JS
 ```js
@@ -17,7 +17,7 @@ console.log(data)
 ## CLI
 `curl https://whoami.deno.dev?pretty`
 
-# Get IP address only
+# get IP address only
 
 ## JS
 ```js
